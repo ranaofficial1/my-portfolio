@@ -54,8 +54,6 @@
 			} else {
 				$(this).addClass('active');	
 			}
-
-			
 			
 		});
 
@@ -64,7 +62,6 @@
 
 
 	var onePageClick = function() {
-
 
 		$(document).on('click', '#ftco-nav a[href^="#"]', function (event) {
 	    event.preventDefault();
