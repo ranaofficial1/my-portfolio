@@ -266,9 +266,5 @@
     fixedContentPos: false
   });
 
-
-
-
-
 })(jQuery);
 
